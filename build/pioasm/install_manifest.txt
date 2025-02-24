@@ -1,0 +1,5 @@
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm-install/pioasm/pioasm
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

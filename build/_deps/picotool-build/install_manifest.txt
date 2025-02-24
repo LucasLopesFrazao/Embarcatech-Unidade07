@@ -1,0 +1,5 @@
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/_deps/picotool/picotool
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/_deps/picotool/picotoolTargets.cmake
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/_deps/picotool/picotoolTargets-release.cmake
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/_deps/picotool/picotoolConfig.cmake
+/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/_deps/picotool/picotoolConfigVersion.cmake
