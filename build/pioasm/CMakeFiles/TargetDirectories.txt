@@ -1,7 +1,0 @@
-/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm/CMakeFiles/pioasm.dir
-/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm/CMakeFiles/edit_cache.dir
-/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm/CMakeFiles/rebuild_cache.dir
-/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm/CMakeFiles/list_install_components.dir
-/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm/CMakeFiles/install.dir
-/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm/CMakeFiles/install/local.dir
-/home/lucasfrazao/Documentos/BitDogLab-C/microphone_dma/build/pioasm/CMakeFiles/install/strip.dir
